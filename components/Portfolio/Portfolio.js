@@ -16,7 +16,7 @@ import piece5img2 from './Artworks/Piece 5 (2 of 2).jpg';
 import piece6img1 from './Artworks/Piece 6 (1 of 2).jpg';
 import piece6img2 from './Artworks/Piece 6 (2 of 2).jpg'; 
 import piece7img1 from './Artworks/Piece 7 (1 of 1).jpg';
-
+ 
 class Portfolio extends React.Component {
     constructor(props){
         super(props)
