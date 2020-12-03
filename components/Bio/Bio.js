@@ -20,7 +20,7 @@ class Bio extends React.Component {
                         <li><a href="/contact">Contact</a></li>
                     </ul>
                 </div>
- 
+
                 <div id="bio">
                 Finn Clough-Holland lives and works in London.<br/> 
                 Recent exhibitions include “London Grads Now” , Saatchi Gallery (2020).<br/>
