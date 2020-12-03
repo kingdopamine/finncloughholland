@@ -1,0 +1,63 @@
+h1{
+    font-family: Gill Sans;
+    font-weight: 100;
+    font-size: large;
+}
+
+li{
+    text-align: left;
+    cursor: pointer;
+}
+
+li:hover{
+    
+    background-color: black;
+    
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color:white;
+}
+
+.portfolioImages {
+    
+    max-height: 90vh;
+    max-width: 80vw;
+    margin-top:5vh;
+    margin-bottom:5vh;
+
+    
+}
+
+.iconImages {
+    max-height: 5vh;
+    cursor: pointer;
+    padding: 5px;
+}
+
+
+.pieceBio{
+    max-width: 450px;
+    text-align: left;
+    font-style: italic;
+    margin-left: 100px;
+}
+
+.pieceBreak{
+    width:50%
+}
+
+ul{
+    list-style-type:none;
+    position: absolute;
+    font-family: Gill Sans;
+    font-weight: 100;
+    
+    
+}
+
