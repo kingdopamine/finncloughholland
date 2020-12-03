@@ -33,7 +33,7 @@ class Bio extends React.Component {
 
             </div>
         )
-    }
+    } 
 }
 
 
