@@ -12,7 +12,7 @@ class Bio extends React.Component {
         return (
             <div>
                 <h1>Finn Clough-Holland</h1>
-
+ 
                 <div id="navigation">
                     <ul>
                         <li><a href="/">Works</a></li>
